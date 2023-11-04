@@ -5,7 +5,7 @@
  
 Apaixonado por facilitar a vida das pessoas através da programação seja utilizando-se de:
 
-.NET Core, C#, Xamarin, API Rest, Asp Net Core, HTML, CSS, SQL e progredindo para outras tecnologias...
+.NET Core, C#, Xamarin, API Rest, Asp Net Core, HTML, CSS, SQL, Angular e progredindo para outras tecnologias...
 
 Independente da ferramenta, meu empenho é por soluções criativas, funcionais e atraentes para as pessoas que as utilizarão.
 
