@@ -36,5 +36,11 @@ Independente da ferramenta, meu empenho é por soluções criativas, funcionais 
   <a href="https://www.linkedin.com/in/lucas-chagas-40624a163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/lucaschagas550/lucaschagas550/blob/output/github-contribution-grid-snake.svg)
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucaschagas550/YourUser/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucaschagas550/YourUser/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucaschagas550/YourUser/output/github-contribution-grid-snake.svg">
+</picture>
  
 </div>
