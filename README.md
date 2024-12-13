@@ -36,6 +36,5 @@ Independente da ferramenta, meu empenho é por soluções criativas, funcionais 
   <a href="https://www.linkedin.com/in/lucas-chagas-40624a163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/lucaschagas550/lucaschagas550/blob/output/github-contribution-grid-snake.svg)
-  ![Snake gif](https://github.com/lucaschagas550/lucaschagas550/blob/output/github-contribution-grid-snake.svg)
  
 </div>
