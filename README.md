@@ -3,11 +3,9 @@
  
  ##
  
-Apaixonado por facilitar a vida das pessoas através da programação seja utilizando-se de:
+Com 6 anos de experiência em desenvolvimento de software, sou apaixonado por facilitar a vida das pessoas através da programação seja utilizando-se de:
 
-.NET Core, C#, Xamarin, API Rest, Asp Net Core, HTML, CSS, SQL, Angular e progredindo para outras tecnologias...
-
-Independente da ferramenta, meu empenho é por soluções criativas, funcionais e atraentes para as pessoas que as utilizarão.
+.NET Core, C#, Xamarin, API Rest, Asp Net Core, Blazor, HTML, CSS, Angular, SQL, Azure, CI/CD e progredindo para outras tecnologias...
 
 
 
